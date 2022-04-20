@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yanpot69420
+- 👋 Hi, I’m Reyhan Akhmad Aulia M.
 - 👀 I’m interested in Android Apps Development
 - 🌱 I’m currently learning Computer Science
 - 📫 How to reach me ...
