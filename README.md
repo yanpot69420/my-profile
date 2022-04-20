@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Reyhan Akhmad Aulia M.
+- 👋 Hi, I’m Reyhan Akhmad Aulia Mochram
 - 👀 I’m interested in Android Apps Development
 - 🌱 I’m currently learning Computer Science
 - 📫 How to reach me ...
